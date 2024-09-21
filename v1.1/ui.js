@@ -86,8 +86,8 @@ ui.startButton.on("click", function(){
 
 // 主运行函数
 function main() {
-    // 启动 0主运行.js 脚本
-    log("准备启动 0主运行.js 脚本");
-    engines.execScriptFile("0主运行.js");
-    log("0主运行.js 脚本已启动");
+    // 启动 主运行.js 脚本
+    log("准备启动 主运行.js 脚本");
+    engines.execScriptFile("主运行.js");
+    log("主运行.js 脚本已启动");
 }

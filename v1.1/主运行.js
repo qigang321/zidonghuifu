@@ -1,9 +1,9 @@
 // 导入模块
-const douyinModule = require('./1打开抖音');
-const messageMonitorModule = require('./2消息页面监测');
-const interactionMessageModule = require('./3互动消息页面监测');
-const privateMessageModule = require('./4私信页面监测');
-const floatyModule = require('./7悬浮窗'); // 导入整个悬浮窗模块
+const douyinModule = require('./1打开抖音.js');
+const messageMonitorModule = require('./2消息页面监测.js');
+const interactionMessageModule = require('./3互动消息页面监测.js');
+const privateMessageModule = require('./4私信页面监测.js');
+const floatyModule = require('./7悬浮窗.js'); // 导入整个悬浮窗模块
 const randomClickModule = require('./5随机点击封装.js'); // 导入随机点击封装模块
 
 // 主运行函数

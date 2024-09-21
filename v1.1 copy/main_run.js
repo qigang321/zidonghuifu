@@ -1,6 +1,6 @@
 
 // 导入模块
-const douyinModule = require('./open_douyin..js');
+const douyinModule = require('./open_douyin.js');
 const messageMonitorModule = require('./message_monitor.js');
 const interactionMessageModule = require('./interaction_monitor.js');
 const privateMessageModule = require('./private_message_monitor.js');
